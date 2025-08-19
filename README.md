@@ -20,3 +20,10 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 ---
+
+### 📊 GitHub Stats  
+
+![Marsela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marsela0603&show_icons=true&theme=radical) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marsela0603&layout=compact&theme=radical)
+
+---
